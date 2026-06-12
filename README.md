@@ -19,14 +19,14 @@ This repository houses the cumulative engineering pipeline, progressing from loc
 ## 📂 System Evolution
 
 ### Series 1: The Breathing Matrix
-**Directory:** `/Series_1`
+**Directory:** `/Series 1`
 The foundational hardware-to-software conduit. An untrained, deterministic neural autoencoder that ingests continuous time-series orbital functions and projects them into a highly expanded 18-channel dimensional output.
 * **Software:** Variance-amplified NumPy network with dynamic range expansion.
 * **Hardware:** Arduino Uno utilizing Direct Port Manipulation for high-speed software PWM.
 * **Key Achievement:** Perfecting the unbreakable 64-byte serial buffer limit via acknowledgment handshakes.
 
 ### Series 2: The Tactile Override
-**Directory:** `/Series_2`
+**Directory:** `/Series 2`
 The establishment of a zero-latency sensory bridge. Transforming the one-way matrix into a bidirectional, closed-loop system.
 * **Software:** Input vector restructuring. A dedicated dual-filter EMA sanitizes incoming raw electromagnetic noise before it enters the neural layer. Deterministic weights force absolute, symmetrical authority for both physical inputs.
 * **Hardware:** Integration of dual B10K linear potentiometers operating on a shared ground, physically steering the latent space in real-time.
